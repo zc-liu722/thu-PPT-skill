@@ -1,0 +1,116 @@
+{
+  "title": "新时代青年党员学习汇报",
+  "category": "party_building",
+  "theme_profile": "formal ideological",
+  "slide_count_target": 9,
+  "slides": [
+    {
+      "slide_type": "cover",
+      "title": "新时代青年党员学习汇报",
+      "body": [
+        "汇报人：学生党支部"
+      ],
+      "visual_intent": "hero_background",
+      "layout_family": "cover",
+      "density_score": 0
+    },
+    {
+      "slide_type": "agenda",
+      "title": "目录",
+      "body": [
+        "概述",
+        "第一部分 理论学习",
+        "第二部分 组织建设",
+        "第三部分 实践服务",
+        "第四部分 下一步安排"
+      ],
+      "visual_intent": "overview",
+      "layout_family": "agenda",
+      "density_score": 5
+    },
+    {
+      "slide_type": "content",
+      "title": "概述",
+      "body": [
+        "日期：2026年3月",
+        "本次汇报围绕党建工作与党课学习展开，重点梳理理论学习、组织建设、党员教育和实践服务四个方面。"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 25
+    },
+    {
+      "slide_type": "content",
+      "title": "第一部分 理论学习",
+      "body": [
+        "深入学习党的创新理论",
+        "围绕思政教育开展专题研讨",
+        "强化青年党员政治引领"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 16
+    },
+    {
+      "slide_type": "content",
+      "title": "第二部分 组织建设",
+      "body": [
+        "完善支部制度与组织生活",
+        "提升党员发展质量",
+        "加强党团协同育人"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 14
+    },
+    {
+      "slide_type": "content",
+      "title": "第三部分 实践服务",
+      "body": [
+        "开展志愿服务与社会实践",
+        "建立先锋示范岗位",
+        "形成红色主题教育案例"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 15
+    },
+    {
+      "slide_type": "content",
+      "title": "第四部分 下一步安排",
+      "body": [
+        "巩固学习成效",
+        "提升支部凝聚力",
+        "打造有特色的党建品牌"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 12
+    },
+    {
+      "slide_type": "conclusion",
+      "title": "总结与展望",
+      "body": [
+        "日期：2026年3月",
+        "深入学习党的创新理论",
+        "完善支部制度与组织生活"
+      ],
+      "visual_intent": "summary",
+      "layout_family": "content",
+      "density_score": 15
+    },
+    {
+      "slide_type": "thank_you",
+      "title": "谢谢",
+      "body": [
+        "汇报人：学生党支部",
+        "日期：2026年3月"
+      ],
+      "visual_intent": "closing",
+      "layout_family": "cover",
+      "density_score": 0
+    }
+  ],
+  "author": "汇报人：学生党支部",
+  "date": "日期：2026年3月"
+}

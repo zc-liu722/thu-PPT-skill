@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Tsinghua PPT Generator
+  short_description: Generate Tsinghua-style PPTX decks from text using the prepared asset library.
+  default_prompt: Turn my markdown, outline, or plain text into a complete Tsinghua-style PPTX. Infer whether it should be general, humanities, or party_building, select the right assets from ~/Downloads/thu_PPT/thu_ppt_assets, keep slides readable, and output the final deck plus QA report.

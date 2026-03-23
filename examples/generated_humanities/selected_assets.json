@@ -1,0 +1,133 @@
+{
+  "category": "humanities",
+  "available_categories": [
+    "general",
+    "humanities",
+    "party_building"
+  ],
+  "selected_template": {
+    "asset_id": "deck_db5e4845ae",
+    "template_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/templates/2025nianduyanshiwengaomoban4-renwen人文.pptx",
+    "thumbnail_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/sample_slides/2025nianduyanshiwengaomoban4-renwen-thumbnail.jpeg",
+    "metadata": {
+      "asset_id": "deck_db5e4845ae",
+      "source_path": "/Users/liuzichang/Downloads/thu_PPT/2025nianduyanshiwengaomoban4-renwen人文.pptx",
+      "slide_count": 29,
+      "media_count": 30,
+      "title_texts": [
+        "添加主标题",
+        "添加主标题",
+        "添加章节标题或输入章节主要内容概括",
+        "添加目录文字",
+        "添加目录文字",
+        "添加目录文字",
+        "添加目录文字",
+        "添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文",
+        "叁",
+        "添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文内容，添加正文内容添加正文",
+        "叁",
+        "标题文字"
+      ],
+      "slide_size": {
+        "cx": 12192000,
+        "cy": 6858000,
+        "type": ""
+      }
+    }
+  },
+  "theme_profile": {
+    "primary_colors": [
+      "4472C4",
+      "ED7D31",
+      "A5A5A5"
+    ],
+    "secondary_colors": [
+      "4472C4",
+      "ED7D31",
+      "A5A5A5"
+    ],
+    "reusable_visual_notes": [
+      "neutral academic template cues"
+    ]
+  },
+  "global_assets": {
+    "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+    "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png"
+  },
+  "slide_assets": [
+    {
+      "slide_type": "cover",
+      "layout_family": "cover",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": null
+    },
+    {
+      "slide_type": "agenda",
+      "layout_family": "agenda",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": null
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/layouts/2025nianduyanshiwengaomoban4-renwen-media_17f4f72e57.jpg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/layouts/2025nianduyanshiwengaomoban4-renwen-media_37e0b0cc1d.jpeg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/layouts/2025nianduyanshiwengaomoban4-renwen-media_a2fbdff1ab.png"
+    },
+    {
+      "slide_type": "comparison",
+      "layout_family": "two_column",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/layouts/2025nianduyanshiwengaomoban4-renwen-media_f8806d84ed.jpeg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/layouts/2025nianduyanshiwengaomoban4-renwen-media_c06ae7ffa7.png"
+    },
+    {
+      "slide_type": "conclusion",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/layouts/2025nianduyanshiwengaomoban4-renwen-media_6d5c87ba7b.jpeg"
+    },
+    {
+      "slide_type": "thank_you",
+      "layout_family": "cover",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/backgrounds/2025nianduyanshiwengaomoban4-renwen-media_fc9953aad9.png",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/humanities/logos/2025nianduyanshiwengaomoban4-renwen-media_fb3267100b.png",
+      "illustration_path": null
+    }
+  ],
+  "fallback_order": [
+    "category-specific",
+    "shared",
+    "ambiguous"
+  ],
+  "inventory_summary": {
+    "general": 54,
+    "party_building": 16,
+    "humanities": 31,
+    "shared": 10
+  }
+}

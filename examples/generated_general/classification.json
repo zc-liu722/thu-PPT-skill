@@ -1,0 +1,27 @@
+{
+  "presentation_type": "formal_report",
+  "category": "general",
+  "confidence": 0.92,
+  "signals": {
+    "keyword_scores": {
+      "party_building": 0,
+      "humanities": 0,
+      "general": 56
+    },
+    "theme_bonus": {
+      "general": 2,
+      "humanities": 1,
+      "party_building": 1
+    },
+    "available_categories": [
+      "general",
+      "humanities",
+      "party_building"
+    ]
+  },
+  "tone": "neutral academic",
+  "recommended_mix": {
+    "text": 0.75,
+    "visual": 0.25
+  }
+}

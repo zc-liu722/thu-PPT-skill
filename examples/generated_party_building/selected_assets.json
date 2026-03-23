@@ -1,0 +1,133 @@
+{
+  "category": "party_building",
+  "available_categories": [
+    "general",
+    "humanities",
+    "party_building"
+  ],
+  "selected_template": {
+    "asset_id": "deck_b6a70d9b10",
+    "template_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/templates/2025nianduyanshiwengaomoban3-dangjian党建.pptx",
+    "thumbnail_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/sample_slides/2025nianduyanshiwengaomoban3-dangjian-thumbnail.jpeg",
+    "metadata": {
+      "asset_id": "deck_b6a70d9b10",
+      "source_path": "/Users/liuzichang/Downloads/thu_PPT/2025nianduyanshiwengaomoban3-dangjian党建.pptx",
+      "slide_count": 24,
+      "media_count": 15,
+      "title_texts": [
+        "汇报人：",
+        "目 录",
+        "第一部分",
+        "第二部分",
+        "第三部分",
+        "第四部分",
+        "添加标题文字",
+        "添加正文",
+        "添加正文",
+        "01",
+        "添加标题文字（图文排版）",
+        "01"
+      ],
+      "slide_size": {
+        "cx": 9144000,
+        "cy": 5143500,
+        "type": "screen16x9"
+      }
+    }
+  },
+  "theme_profile": {
+    "primary_colors": [
+      "4472C4",
+      "ED7D31",
+      "A5A5A5"
+    ],
+    "secondary_colors": [
+      "4472C4",
+      "ED7D31",
+      "A5A5A5"
+    ],
+    "reusable_visual_notes": [
+      "explicit Tsinghua institutional branding"
+    ]
+  },
+  "global_assets": {
+    "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+    "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png"
+  },
+  "slide_assets": [
+    {
+      "slide_type": "cover",
+      "layout_family": "cover",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": null
+    },
+    {
+      "slide_type": "agenda",
+      "layout_family": "agenda",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": null
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/layouts/2025nianduyanshiwengaomoban3-dangjian-media_b1074cf783.jpeg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/layouts/2025nianduyanshiwengaomoban3-dangjian-media_1cea5f73c3.jpeg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/layouts/2025nianduyanshiwengaomoban3-dangjian-media_44c8df2302.jpeg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/layouts/2025nianduyanshiwengaomoban3-dangjian-media_b916523893.jpg"
+    },
+    {
+      "slide_type": "content",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/layouts/2025nianduyanshiwengaomoban3-dangjian-media_b6d97d0509.jpg"
+    },
+    {
+      "slide_type": "conclusion",
+      "layout_family": "content",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/layouts/2025nianduyanshiwengaomoban3-dangjian-media_037ff1321b.jpeg"
+    },
+    {
+      "slide_type": "thank_you",
+      "layout_family": "cover",
+      "background_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/categorized/party_building/backgrounds/2025nianduyanshiwengaomoban3-dangjian-media_631dbd0d77.jpg",
+      "logo_path": "/Users/liuzichang/Downloads/thu_PPT/thu_ppt_assets/shared/common_logos/2025nianduyanshiwengaomoban5-kejizhuti-media_ac2274e5d1.png",
+      "illustration_path": null
+    }
+  ],
+  "fallback_order": [
+    "category-specific",
+    "shared",
+    "ambiguous"
+  ],
+  "inventory_summary": {
+    "general": 54,
+    "party_building": 16,
+    "humanities": 31,
+    "shared": 10
+  }
+}

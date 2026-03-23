@@ -1,0 +1,9 @@
+{
+  "name": "thu-ppt-generator",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Production-grade Tsinghua-style presentation generation with PptxGenJS rendering.",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}

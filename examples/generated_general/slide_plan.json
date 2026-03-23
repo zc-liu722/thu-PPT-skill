@@ -1,0 +1,115 @@
+{
+  "title": "清华大学科研项目阶段汇报",
+  "category": "general",
+  "theme_profile": "neutral academic",
+  "slide_count_target": 9,
+  "slides": [
+    {
+      "slide_type": "cover",
+      "title": "清华大学科研项目阶段汇报",
+      "body": [
+        "汇报人：科研项目组"
+      ],
+      "visual_intent": "hero_background",
+      "layout_family": "cover",
+      "density_score": 0
+    },
+    {
+      "slide_type": "agenda",
+      "title": "目录",
+      "body": [
+        "概述",
+        "一、项目背景",
+        "二、阶段进展",
+        "三、风险与对策",
+        "四、下一步计划"
+      ],
+      "visual_intent": "overview",
+      "layout_family": "agenda",
+      "density_score": 5
+    },
+    {
+      "slide_type": "content",
+      "title": "概述",
+      "body": [
+        "日期：2026年3月"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 4
+    },
+    {
+      "slide_type": "content",
+      "title": "一、项目背景",
+      "body": [
+        "项目目标与研究意义",
+        "当前政策与学术背景",
+        "关键问题定义"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 13
+    },
+    {
+      "slide_type": "chart",
+      "title": "二、阶段进展",
+      "body": [
+        "完成需求调研与文献综述",
+        "建立实验框架与评估指标",
+        "获得初步实验结果"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "chart",
+      "density_score": 16
+    },
+    {
+      "slide_type": "chart",
+      "title": "三、风险与对策",
+      "body": [
+        "数据采集周期较长",
+        "跨部门协同成本较高",
+        "下一阶段资源安排"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "chart",
+      "density_score": 13
+    },
+    {
+      "slide_type": "content",
+      "title": "四、下一步计划",
+      "body": [
+        "完善实验设计",
+        "扩展样本规模",
+        "形成阶段性论文与汇报材料"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 12
+    },
+    {
+      "slide_type": "conclusion",
+      "title": "总结与展望",
+      "body": [
+        "日期：2026年3月",
+        "项目目标与研究意义",
+        "完成需求调研与文献综述"
+      ],
+      "visual_intent": "summary",
+      "layout_family": "content",
+      "density_score": 15
+    },
+    {
+      "slide_type": "thank_you",
+      "title": "谢谢",
+      "body": [
+        "汇报人：科研项目组",
+        "日期：2026年3月"
+      ],
+      "visual_intent": "closing",
+      "layout_family": "cover",
+      "density_score": 0
+    }
+  ],
+  "author": "汇报人：科研项目组",
+  "date": "日期：2026年3月"
+}

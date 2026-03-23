@@ -1,0 +1,115 @@
+{
+  "title": "清华大学人文讲座汇报",
+  "category": "humanities",
+  "theme_profile": "reflective and scholarly",
+  "slide_count_target": 9,
+  "slides": [
+    {
+      "slide_type": "cover",
+      "title": "清华大学人文讲座汇报",
+      "body": [
+        "汇报人： 人文学院课程组"
+      ],
+      "visual_intent": "hero_background",
+      "layout_family": "cover",
+      "density_score": 0
+    },
+    {
+      "slide_type": "agenda",
+      "title": "目录",
+      "body": [
+        "概述",
+        "讲座背景",
+        "思想脉络",
+        "对比视角",
+        "教学启发"
+      ],
+      "visual_intent": "overview",
+      "layout_family": "agenda",
+      "density_score": 5
+    },
+    {
+      "slide_type": "content",
+      "title": "概述",
+      "body": [
+        "汇报人： 人文学院课程组"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 5
+    },
+    {
+      "slide_type": "content",
+      "title": "讲座背景",
+      "body": [
+        "主题聚焦中国近现代思想史",
+        "兼顾历史语境与文本细读",
+        "强调文化传统与当代价值"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 18
+    },
+    {
+      "slide_type": "content",
+      "title": "思想脉络",
+      "body": [
+        "晚清变局中的知识转型",
+        "新文化运动的价值争论",
+        "现代大学与公共精神"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 15
+    },
+    {
+      "slide_type": "comparison",
+      "title": "对比视角",
+      "body": [
+        "传统经学与现代学术体制",
+        "精英启蒙与大众传播",
+        "国家叙事与个体经验"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "two_column",
+      "density_score": 16
+    },
+    {
+      "slide_type": "content",
+      "title": "教学启发",
+      "body": [
+        "历史材料与经典文本并重",
+        "课程设计应留出讨论空间",
+        "引导学生建立问题意识"
+      ],
+      "visual_intent": "supporting_image",
+      "layout_family": "content",
+      "density_score": 17
+    },
+    {
+      "slide_type": "conclusion",
+      "title": "总结与展望",
+      "body": [
+        "汇报人： 人文学院课程组",
+        "主题聚焦中国近现代思想史",
+        "晚清变局中的知识转型"
+      ],
+      "visual_intent": "summary",
+      "layout_family": "content",
+      "density_score": 16
+    },
+    {
+      "slide_type": "thank_you",
+      "title": "谢谢",
+      "body": [
+        "**汇报人：** 人文学院课程组",
+        ""
+      ],
+      "visual_intent": "closing",
+      "layout_family": "cover",
+      "density_score": 0
+    }
+  ],
+  "author": "**汇报人：** 人文学院课程组",
+  "date": ""
+}

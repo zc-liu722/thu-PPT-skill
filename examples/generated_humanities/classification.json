@@ -1,0 +1,27 @@
+{
+  "presentation_type": "lecture",
+  "category": "humanities",
+  "confidence": 0.92,
+  "signals": {
+    "keyword_scores": {
+      "party_building": 0,
+      "humanities": 48,
+      "general": 8
+    },
+    "theme_bonus": {
+      "general": 2,
+      "humanities": 1,
+      "party_building": 1
+    },
+    "available_categories": [
+      "general",
+      "humanities",
+      "party_building"
+    ]
+  },
+  "tone": "reflective and scholarly",
+  "recommended_mix": {
+    "text": 0.7,
+    "visual": 0.3
+  }
+}
